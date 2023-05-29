@@ -7,6 +7,7 @@ https://huggingface.co/spaces/BitsofPaper/Risk_Thinking
 API:
 
 pip install gradio_client
+
 from gradio_client import Client
 
 client = Client("https://bitsofpaper-risk-thinking.hf.space/")
