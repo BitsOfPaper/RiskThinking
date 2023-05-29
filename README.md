@@ -3,7 +3,7 @@
 Live prediction:
 https://huggingface.co/spaces/BitsofPaper/Risk_Thinking
 
-
+--------------------------------------------------------------------------------------------
 API:
 
 pip install gradio_client
@@ -16,7 +16,7 @@ result = client.predict("Volume Moving Avg", "Adj Close Rolling Mean", api_name=
 
 print(result)
 
-
+--------------------------------------------------------------------------------------------
 App code:
 
 https://huggingface.co/spaces/BitsofPaper/Risk_Thinking/tree/main
