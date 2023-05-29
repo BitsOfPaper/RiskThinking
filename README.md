@@ -5,6 +5,7 @@ https://huggingface.co/spaces/BitsofPaper/Risk_Thinking
 
 
 API:
+
 pip install gradio_client
 from gradio_client import Client
 
