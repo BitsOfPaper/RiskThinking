@@ -15,11 +15,3 @@ client = Client("https://bitsofpaper-risk-thinking.hf.space/")
 result = client.predict("Volume Moving Avg", "Adj Close Rolling Mean", api_name="/predict")
 
 print(result)
-
-
-<iframe
-	src="https://bitsofpaper-risk-thinking.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
