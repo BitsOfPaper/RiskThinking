@@ -20,3 +20,6 @@ print(result)
 App code:
 
 https://huggingface.co/spaces/BitsofPaper/Risk_Thinking/tree/main
+
+
+* Make sure to set the Kaggle API credentials as environment variables in Dockerfile *
