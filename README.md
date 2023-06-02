@@ -29,18 +29,5 @@ https://huggingface.co/spaces/BitsofPaper/Risk_Thinking/tree/main
 
 * Output from running this container:
 
-├── RiskT
-│   ├── stocks/*.csv
-│   └── etfs/*.csv
-│
-├── stocks_etfs_cleaned
-│   └── stocks_etfs_cleaned.parquet
-│
-├── stocks_etfs_transformed
-│   └── stocks_etfs_transformed.parquet
-|
-├── model
-|   ├── model.joblib
-|   └── scaler.joblib
-|
-├── training_logs.log
+![rt](https://github.com/BitsOfPaper/RiskThinking/assets/83096475/65e0cd2f-1124-4391-9d5b-9af5be5acf17)
+
